@@ -8,4 +8,4 @@
 git clone <URL_РЕПОЗИТОРІЯ>
 cd <ІМ'Я_ПРОЕКТУ>
 npm install
-gulp serve
+gulp serve   
